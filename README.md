@@ -53,3 +53,8 @@ This project helped me understand how PCA works and why preprocessing steps like
 - pandas  
 - matplotlib  
 - scikit-learn  
+
+## References
+
+- Grey, K. (2008). *Palaeontology Study on Buchia Fossils*.  
+  This paper provides background context for the dataset used in this project.
