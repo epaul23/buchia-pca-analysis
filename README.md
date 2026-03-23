@@ -39,7 +39,7 @@ The dataset contains over 1500 samples with 10 features that describe shell shap
 
 Together, the first three components explain most of the data.
 
-## Sample Plot
+## PCA Plot
 
 ![PCA Plot](outputs/pc1_vs_pc2.png)
 
